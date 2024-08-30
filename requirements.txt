@@ -2,3 +2,4 @@ google-generativeai
 streamlit
 streamlit-chat
 Speechrecognition
+PyPDF2==3.0.1
